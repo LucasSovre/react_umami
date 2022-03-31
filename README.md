@@ -7,7 +7,7 @@ this package is a class to easy integrate [umami](https://umami.is/) in your rea
 install the package : 
 
 ```bash
-npm i react_umami
+npm i react-umami
 ```
 
 create a react_umami class instance 
