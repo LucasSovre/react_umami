@@ -1,5 +1,5 @@
 {
-  "name": "react_umami",
+  "name": "react-umami",
   "version": "1.0.0",
   "description": "A package wich allow react to esay use umami analytics.",
   "main": "index.js",
